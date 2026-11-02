@@ -1,0 +1,342 @@
+{
+  "500": [
+    {
+      "question": "Apa tujuan utama Rapor Pendidikan?",
+      "paraphrase": false,
+      "results": [
+        {
+          "source": "User Manual_Rapor Pendidikan (Dinas).pdf",
+          "chunk_id": 2,
+          "text": "umen Rapor\n Pendidikan, melainkan data diambil dari sistem yang sudah ada, termasuk dari\n Dapodik, SIMPKB, AN, BPS, dan sumber lain yang relevan. Satuan pendidikan hanya\n dipersyaratkan memasukkan data di Dapodik dan mengikuti Asesmen Nasional.\n\n[HALAMAN 3]\nRapor Pendidikan dapat dijadikan sebagai:\n\n 1. Referensi utama sebagai dasar analisis, perencanaan, dan tindak lanjut\n peningkatan kualitas pendidikan\n 2.",
+          "score": 0.7539852857589722
+        },
+        {
+          "source": "User Manual_Rapor Pendidikan (Dinas).pdf",
+          "chunk_id": 1,
+          "text": "idikan sebagai acuan evaluasi mutu pendidikan,\n perencanaan berbasis data, dan tindak lanjut peningkatan kualitas pendidikan baik\n untuk satuan pendidikan kabupaten/kota, provinsi atau pusat.\n\n Rapor Pendidikan adalah penyempurnaan Rapor Mutu, di mana indikatornya\n disusun berdasarkan indikator input, proses, dan output pendidikan. Satuan\n pendidikan tidak melakukan pengisian data langsung ke dalam instrumen Rapor\n Pendidikan, melainkan data diambil dari sistem yang sudah ada,",
+          "score": 0.7360063791275024
+        },
+        {
+          "source": "User Manual_Rapor Pendidikan (Dinas).pdf",
+          "chunk_id": 0,
+          "text": "[HALAMAN 1]\nPanduan Penggunaan\nRapor Pendidikan\n\nUntuk Dinas Pendidikan\n\n\n\n\n\nVersi: 0.1.0\n\n[HALAMAN 2]\nRapor Pendidikan\n\n Rapor Pendidikan adalah laporan hasil evaluasi layanan pendidikan sebagai\n penyempurnaan dari Rapor Mutu yang disusun oleh instrumen dan proses evaluasi\n yang berfokus pada hasil belajar peserta didik. Bersumber pada data yang lebih\n objektif, menjadikan Rapor Pendidikan sebagai acuan evaluasi mutu pendidikan,\n perencanaan berbasis data,",
+          "score": 0.715359091758728
+        }
+      ]
+    },
+    {
+      "question": "Dari sistem atau sumber data apa Rapor Pendidikan mengambil datanya?",
+      "paraphrase": false,
+      "results": [
+        {
+          "source": "User Manual_Rapor Pendidikan (Dinas).pdf",
+          "chunk_id": 2,
+          "text": "umen Rapor\n Pendidikan, melainkan data diambil dari sistem yang sudah ada, termasuk dari\n Dapodik, SIMPKB, AN, BPS, dan sumber lain yang relevan. Satuan pendidikan hanya\n dipersyaratkan memasukkan data di Dapodik dan mengikuti Asesmen Nasional.\n\n[HALAMAN 3]\nRapor Pendidikan dapat dijadikan sebagai:\n\n 1. Referensi utama sebagai dasar analisis, perencanaan, dan tindak lanjut\n peningkatan kualitas pendidikan\n 2.",
+          "score": 0.8280366063117981
+        },
+        {
+          "source": "User Manual_Rapor Pendidikan (Dinas).pdf",
+          "chunk_id": 1,
+          "text": "idikan sebagai acuan evaluasi mutu pendidikan,\n perencanaan berbasis data, dan tindak lanjut peningkatan kualitas pendidikan baik\n untuk satuan pendidikan kabupaten/kota, provinsi atau pusat.\n\n Rapor Pendidikan adalah penyempurnaan Rapor Mutu, di mana indikatornya\n disusun berdasarkan indikator input, proses, dan output pendidikan. Satuan\n pendidikan tidak melakukan pengisian data langsung ke dalam instrumen Rapor\n Pendidikan, melainkan data diambil dari sistem yang sudah ada,",
+          "score": 0.7163918018341064
+        },
+        {
+          "source": "Panduan Pembelajaran Asesmen.pdf",
+          "chunk_id": 375,
+          "text": "u persentase berdasarkan tingkat kesulitan tujuan\n pembelajaran.\n\n\n\n\n\n 58\n\n[HALAMAN 67]\nPengolahan dan Pelaporan Hasil Asesmen\n\n\n\n\nb. Contoh Pengolahan Data Kualitatif\n◊ SMP\nContoh dibawah ini adalah pada mata pelajaran Informatika SMP (fase D) elemen teknologi\ninformasi dan komunikasi, selama satu semester murid mempelajari materi tentang antar muka\ngrafis, surat elektronik, peramban web dan mesin telusur, manajemen folder dan file, membuat\ndokumen dengan aplikasi perkantoran.",
+          "score": 0.6778175234794617
+        }
+      ]
+    },
+    {
+      "question": "Apakah satuan pendidikan harus mengisi data langsung pada instrumen Rapor Pendidikan?",
+      "paraphrase": false,
+      "results": [
+        {
+          "source": "User Manual_Rapor Pendidikan (Dinas).pdf",
+          "chunk_id": 2,
+          "text": "umen Rapor\n Pendidikan, melainkan data diambil dari sistem yang sudah ada, termasuk dari\n Dapodik, SIMPKB, AN, BPS, dan sumber lain yang relevan. Satuan pendidikan hanya\n dipersyaratkan memasukkan data di Dapodik dan mengikuti Asesmen Nasional.\n\n[HALAMAN 3]\nRapor Pendidikan dapat dijadikan sebagai:\n\n 1. Referensi utama sebagai dasar analisis, perencanaan, dan tindak lanjut\n peningkatan kualitas pendidikan\n 2.",
+          "score": 0.7689434885978699
+        },
+        {
+          "source": "Panduan Pembelajaran Asesmen.pdf",
+          "chunk_id": 257,
+          "text": "men pada akhir\nsemester. Hal yang perlu ditekankan, untuk asesmen sumatif, pendidik dapat menggunakan teknik\ndan instrumen yang beragam, tidak hanya berupa tes tertulis, tetapi dapat menggunakan observasi\ndan performa (praktik, menghasilkan produk, dan melakukan projek).\n\n\n\n 38\n\n[HALAMAN 47]\nPerencanaan Pembelajaran dan Asesmen\n\n\n\n\n\nDalam pembelajaran mendalam, asesmen tidak hanya berfungsi untuk mengukur hasil belajar, tetapi\njuga menjadi bagian penting dari proses pembelajaran itu sendiri.",
+          "score": 0.7095733880996704
+        },
+        {
+          "source": "User Manual_Rapor Pendidikan (Dinas).pdf",
+          "chunk_id": 1,
+          "text": "idikan sebagai acuan evaluasi mutu pendidikan,\n perencanaan berbasis data, dan tindak lanjut peningkatan kualitas pendidikan baik\n untuk satuan pendidikan kabupaten/kota, provinsi atau pusat.\n\n Rapor Pendidikan adalah penyempurnaan Rapor Mutu, di mana indikatornya\n disusun berdasarkan indikator input, proses, dan output pendidikan. Satuan\n pendidikan tidak melakukan pengisian data langsung ke dalam instrumen Rapor\n Pendidikan, melainkan data diambil dari sistem yang sudah ada,",
+          "score": 0.6927313208580017
+        }
+      ]
+    },
+    {
+      "question": "Apa tiga kelompok indikator dalam Rapor Pendidikan?",
+      "paraphrase": false,
+      "results": [
+        {
+          "source": "User Manual_Rapor Pendidikan (Dinas).pdf",
+          "chunk_id": 2,
+          "text": "umen Rapor\n Pendidikan, melainkan data diambil dari sistem yang sudah ada, termasuk dari\n Dapodik, SIMPKB, AN, BPS, dan sumber lain yang relevan. Satuan pendidikan hanya\n dipersyaratkan memasukkan data di Dapodik dan mengikuti Asesmen Nasional.\n\n[HALAMAN 3]\nRapor Pendidikan dapat dijadikan sebagai:\n\n 1. Referensi utama sebagai dasar analisis, perencanaan, dan tindak lanjut\n peningkatan kualitas pendidikan\n 2.",
+          "score": 0.7349859476089478
+        },
+        {
+          "source": "Panduan Pembelajaran Asesmen.pdf",
+          "chunk_id": 284,
+          "text": "membandingkan hasil tulisan murid dengan rubrik untuk menentukan ketercapaian murid.\nPencapaian penulisan laporan dilihat dari 3 unsur yaitu pembuka, isi, dan penutup.\n\n\n\n\n\nPanduan Pembelajaran dan Asesmen Pendidikan Anak Usia Dini, Jenjang Pendidikan Dasar, dan Jenjang Pendidikan Menengah 43\n\n[HALAMAN 52]\nedisi revisi - Tahun 2025\n\n\n\n\n\n Tabel 3.7. Contoh Kriteria Ketuntasan Tujuan Pembelajaran Menggunakan Interval",
+          "score": 0.7162384390830994
+        },
+        {
+          "source": "User Manual_Rapor Pendidikan (Dinas).pdf",
+          "chunk_id": 1,
+          "text": "idikan sebagai acuan evaluasi mutu pendidikan,\n perencanaan berbasis data, dan tindak lanjut peningkatan kualitas pendidikan baik\n untuk satuan pendidikan kabupaten/kota, provinsi atau pusat.\n\n Rapor Pendidikan adalah penyempurnaan Rapor Mutu, di mana indikatornya\n disusun berdasarkan indikator input, proses, dan output pendidikan. Satuan\n pendidikan tidak melakukan pengisian data langsung ke dalam instrumen Rapor\n Pendidikan, melainkan data diambil dari sistem yang sudah ada,",
+          "score": 0.6956146359443665
+        }
+      ]
+    },
+    {
+      "question": "Apa kegunaan Rapor Pendidikan bagi pemerintah daerah dan satuan pendidikan?",
+      "paraphrase": false,
+      "results": [
+        {
+          "source": "User Manual_Rapor Pendidikan (Dinas).pdf",
+          "chunk_id": 2,
+          "text": "umen Rapor\n Pendidikan, melainkan data diambil dari sistem yang sudah ada, termasuk dari\n Dapodik, SIMPKB, AN, BPS, dan sumber lain yang relevan. Satuan pendidikan hanya\n dipersyaratkan memasukkan data di Dapodik dan mengikuti Asesmen Nasional.\n\n[HALAMAN 3]\nRapor Pendidikan dapat dijadikan sebagai:\n\n 1. Referensi utama sebagai dasar analisis, perencanaan, dan tindak lanjut\n peningkatan kualitas pendidikan\n 2.",
+          "score": 0.7844752669334412
+        },
+        {
+          "source": "User Manual_Rapor Pendidikan (Dinas).pdf",
+          "chunk_id": 1,
+          "text": "idikan sebagai acuan evaluasi mutu pendidikan,\n perencanaan berbasis data, dan tindak lanjut peningkatan kualitas pendidikan baik\n untuk satuan pendidikan kabupaten/kota, provinsi atau pusat.\n\n Rapor Pendidikan adalah penyempurnaan Rapor Mutu, di mana indikatornya\n disusun berdasarkan indikator input, proses, dan output pendidikan. Satuan\n pendidikan tidak melakukan pengisian data langsung ke dalam instrumen Rapor\n Pendidikan, melainkan data diambil dari sistem yang sudah ada,",
+          "score": 0.7491523027420044
+        },
+        {
+          "source": "Buku Panduan Capaian Hasil AN.pdf",
+          "chunk_id": 143,
+          "text": "ebih tinggi daripada\n satuan pendidikan yang berada di wilayah urban.\n\n\n\n\n\n© 2022 Pusat Asesmen Pendidikan, BSKAP, Kemendikbudristek 37\n\n[HALAMAN 38]\nE.1 PENGELOLAAN SEKOLAH YANG PARTISIPATIF,\n TRANSPARAN, DAN AKUNTABEL\n Partisipasi warga sekolah.\n Tingkat partisipasi orang tua dan peserta didik dalam pengelolaan sekolah.\n\n\n\n\n\n38 © 2022 Pusat Asesmen Pendidikan, BSKAP, Kemendikbudristek\n\n[HALAMAN 39]\nINKLUSIF SELEKTIF RESTRIKTIF",
+          "score": 0.7173423171043396
+        }
+      ]
+    },
+    {
+      "question": "Dengan kata lain, bagaimana Asesmen Nasional membantu sekolah meningkatkan pembelajaran?",
+      "paraphrase": true,
+      "results": [
+        {
+          "source": "Panduan Pembelajaran Asesmen.pdf",
+          "chunk_id": 321,
+          "text": "gai bekal menghadapi Uji Kompetensi Keahlian di akhir masa pembelajaran.\n\n\n Satuan pendidikan dapat bekerjasama dengan mitra dunia kerja untuk mendukung\n pembelajaran, asesmen, dan uji kompetensi yang selaras dengan prinsip-prinsip asesmen.\n\n\n\n\n\nPanduan Pembelajaran dan Asesmen Pendidikan Anak Usia Dini, Jenjang Pendidikan Dasar, dan Jenjang Pendidikan Menengah 49\n\n[HALAMAN 58]\nedisi revisi - Tahun 2025\n\n 4 Pelaksanaan Pembelajaran\n dan Asesmen",
+          "score": 0.7056516408920288
+        },
+        {
+          "source": "Buku Panduan Capaian Hasil AN.pdf",
+          "chunk_id": 73,
+          "text": "DISORIENTASI\n berorientasi Perencanaan pembelajaran, praktik pembelajaran, dan praktik asesmen di\n pada satuan pendidikan belum berorientasi pada peningkatan hasil belajar murid.\n peningkatan\n hasil belajar\n murid.\n\n d.3.3 TERSTRUKTUR\n Dukungan untuk Sekolah sudah memiliki program, sistem insentif, dan sumber daya yang telah\n refleksi guru mendukung guru untuk melakukan refleksi dan perbaikan pembelajaran.\n Program, sistem TERSEDIA\n insentif, dan Sekolah sudah memiliki program, sistem insentif,",
+          "score": 0.7019197940826416
+        },
+        {
+          "source": "Buku Panduan Capaian Hasil AN.pdf",
+          "chunk_id": 72,
+          "text": "3.2 BERDAMPAK\n Pengelolaan Perencanaan pembelajaran, praktik pembelajaran, dan praktik asesmen di\n kurikulum satuan pendidikan sudah berorientasi pada peningkatan hasil belajar murid.\n sekolah\n BERORIENTASI\n Mengelola Perencanaan pembelajaran, praktik pembelajaran, dan praktik asesmen di\n pengembangan satuan pendidikan berorientasi pada peningkatan hasil belajar murid.\n kurikulum\n sekolah dengan DISORIENTASI\n berorientasi Perencanaan pembelajaran, praktik pembelajaran,",
+          "score": 0.6969232559204102
+        }
+      ]
+    },
+    {
+      "question": "Sebutkan cara lain menjelaskan fungsi Rapor Pendidikan sebagai dasar perbaikan sekolah dan dinas pendidikan.",
+      "paraphrase": true,
+      "results": [
+        {
+          "source": "User Manual_Rapor Pendidikan (Dinas).pdf",
+          "chunk_id": 1,
+          "text": "idikan sebagai acuan evaluasi mutu pendidikan,\n perencanaan berbasis data, dan tindak lanjut peningkatan kualitas pendidikan baik\n untuk satuan pendidikan kabupaten/kota, provinsi atau pusat.\n\n Rapor Pendidikan adalah penyempurnaan Rapor Mutu, di mana indikatornya\n disusun berdasarkan indikator input, proses, dan output pendidikan. Satuan\n pendidikan tidak melakukan pengisian data langsung ke dalam instrumen Rapor\n Pendidikan, melainkan data diambil dari sistem yang sudah ada,",
+          "score": 0.8195886611938477
+        },
+        {
+          "source": "User Manual_Rapor Pendidikan (Dinas).pdf",
+          "chunk_id": 3,
+          "text": "lisis, perencanaan, dan tindak lanjut\n peningkatan kualitas pendidikan\n 2. Sumber data yang objektif dan andal dengan penyajian laporan secara\n otomatis dan terintegrasi\n 3. Instrumen pengukuran untuk evaluasi sistem pendidikan secara keseluruhan\n baik untuk evaluasi internal maupun eksternal\n 4. Alat ukur yang berorientasi pada mutu dan pemerataan hasil belajar (output)\n 5.",
+          "score": 0.7640056014060974
+        },
+        {
+          "source": "User Manual_Rapor Pendidikan (Dinas).pdf",
+          "chunk_id": 2,
+          "text": "umen Rapor\n Pendidikan, melainkan data diambil dari sistem yang sudah ada, termasuk dari\n Dapodik, SIMPKB, AN, BPS, dan sumber lain yang relevan. Satuan pendidikan hanya\n dipersyaratkan memasukkan data di Dapodik dan mengikuti Asesmen Nasional.\n\n[HALAMAN 3]\nRapor Pendidikan dapat dijadikan sebagai:\n\n 1. Referensi utama sebagai dasar analisis, perencanaan, dan tindak lanjut\n peningkatan kualitas pendidikan\n 2.",
+          "score": 0.7519188523292542
+        }
+      ]
+    }
+  ],
+  "1000": [
+    {
+      "question": "Apa tujuan utama Rapor Pendidikan?",
+      "paraphrase": false,
+      "results": [
+        {
+          "source": "User Manual_Rapor Pendidikan (Dinas).pdf",
+          "chunk_id": 0,
+          "text": "[HALAMAN 1]\nPanduan Penggunaan\nRapor Pendidikan\n\nUntuk Dinas Pendidikan\n\n\n\n\n\nVersi: 0.1.0\n\n[HALAMAN 2]\nRapor Pendidikan\n\n Rapor Pendidikan adalah laporan hasil evaluasi layanan pendidikan sebagai\n penyempurnaan dari Rapor Mutu yang disusun oleh instrumen dan proses evaluasi\n yang berfokus pada hasil belajar peserta didik. Bersumber pada data yang lebih\n objektif, menjadikan Rapor Pendidikan sebagai acuan evaluasi mutu pendidikan,\n perencanaan berbasis data, dan tindak lanjut peningkatan kualitas pendidikan baik\n untuk satuan pendidikan kabupaten/kota, provinsi atau pusat.\n\n Rapor Pendidikan adalah penyempurnaan Rapor Mutu, di mana indikatornya\n disusun berdasarkan indikator input, proses, dan output pendidikan. Satuan\n pendidikan tidak melakukan pengisian data langsung ke dalam instrumen Rapor\n Pendidikan, melainkan data diambil dari sistem yang sudah ada, termasuk dari\n Dapodik, SIMPKB, AN, BPS, dan sumber lain yang relevan.",
+          "score": 0.7341549396514893
+        },
+        {
+          "source": "User Manual_Rapor Pendidikan (Dinas).pdf",
+          "chunk_id": 1,
+          "text": "nstrumen Rapor\n Pendidikan, melainkan data diambil dari sistem yang sudah ada, termasuk dari\n Dapodik, SIMPKB, AN, BPS, dan sumber lain yang relevan. Satuan pendidikan hanya\n dipersyaratkan memasukkan data di Dapodik dan mengikuti Asesmen Nasional.\n\n[HALAMAN 3]\nRapor Pendidikan dapat dijadikan sebagai:\n\n 1. Referensi utama sebagai dasar analisis, perencanaan, dan tindak lanjut\n peningkatan kualitas pendidikan\n 2. Sumber data yang objektif dan andal dengan penyajian laporan secara\n otomatis dan terintegrasi\n 3. Instrumen pengukuran untuk evaluasi sistem pendidikan secara keseluruhan\n baik untuk evaluasi internal maupun eksternal\n 4. Alat ukur yang berorientasi pada mutu dan pemerataan hasil belajar (output)\n 5. Satuan pendidikan tidak perlu menggunakan beragam aplikasi sehingga\n diharapkan dapat meringankan beban administrasi dengan penyajian data\n yang terpusat\n 6. Satu-satunya platform untuk melihat hasil Asesmen Nasional\n\n[HALAMAN 4]\nFungsi dan Manfaat\n\n\n\n Rapor Pendidikan\n I.",
+          "score": 0.727952241897583
+        },
+        {
+          "source": "Panduan Pembelajaran Asesmen.pdf",
+          "chunk_id": 69,
+          "text": "aran dan Asesmen Pendidikan Anak Usia Dini, Jenjang Pendidikan Dasar, dan Jenjang Pendidikan Menengah 21\n\n[HALAMAN 30]\nedisi revisi - Tahun 2025\n\n\n\n\n\n Panduan ini memberi keleluasaan pada pendidik untuk menggali berbagai\n referensi yang dapat digunakan untuk merancang tujuan pembelajaran.\n Pendidik dapat menggunakan teori atau pendekatan lain dalam merancang\n tujuan pembelajaran, selama teori tersebut dinilai relevan dengan\n karakteristik mata pelajaran serta konsep/topik yang dipelajari, karakteristik\n murid, dan konteks lingkungan pembelajaran.\n\n\nBerikut adalah beberapa catatan khusus terkait dengan perumusan tujuan pembelajaran di jenis dan\njenjang pendidikan tertentu.\n• Pada Pendidikan Khusus, selain kompetensi dan konten, tujuan pembelajaran juga mencakup\n variasi dan akomodasi layanan sesuai karakteristik murid. Selain itu, tujuan pembelajaran\n diarahkan pada terbentuknya kemandirian dalam aktivitas sehari-hari sampai kesiapan memasuki\n dunia kerja.\n• Pada satuan pendidikan SMK,",
+          "score": 0.6881026029586792
+        }
+      ]
+    },
+    {
+      "question": "Dari sistem atau sumber data apa Rapor Pendidikan mengambil datanya?",
+      "paraphrase": false,
+      "results": [
+        {
+          "source": "User Manual_Rapor Pendidikan (Dinas).pdf",
+          "chunk_id": 1,
+          "text": "nstrumen Rapor\n Pendidikan, melainkan data diambil dari sistem yang sudah ada, termasuk dari\n Dapodik, SIMPKB, AN, BPS, dan sumber lain yang relevan. Satuan pendidikan hanya\n dipersyaratkan memasukkan data di Dapodik dan mengikuti Asesmen Nasional.\n\n[HALAMAN 3]\nRapor Pendidikan dapat dijadikan sebagai:\n\n 1. Referensi utama sebagai dasar analisis, perencanaan, dan tindak lanjut\n peningkatan kualitas pendidikan\n 2. Sumber data yang objektif dan andal dengan penyajian laporan secara\n otomatis dan terintegrasi\n 3. Instrumen pengukuran untuk evaluasi sistem pendidikan secara keseluruhan\n baik untuk evaluasi internal maupun eksternal\n 4. Alat ukur yang berorientasi pada mutu dan pemerataan hasil belajar (output)\n 5. Satuan pendidikan tidak perlu menggunakan beragam aplikasi sehingga\n diharapkan dapat meringankan beban administrasi dengan penyajian data\n yang terpusat\n 6. Satu-satunya platform untuk melihat hasil Asesmen Nasional\n\n[HALAMAN 4]\nFungsi dan Manfaat\n\n\n\n Rapor Pendidikan\n I.",
+          "score": 0.819581925868988
+        },
+        {
+          "source": "Panduan Pembelajaran Asesmen.pdf",
+          "chunk_id": 194,
+          "text": "nggunakan cara lain, namun tetap menjaga validitas dan akurasi\n penilaian, yang menggambarkan perkembangan proses belajar yang telah ditempuh murid.\n\n Pada satuan pendidikan yang menggunakan angka dan deskripsi pada pelaporan hasil belajarnya,\n hasil asesmen kualitatif tersebut perlu dikuantifikasi.\n\n\n\nPanduan Pembelajaran dan Asesmen Pendidikan Anak Usia Dini, Jenjang Pendidikan Dasar, dan Jenjang Pendidikan Menengah 61\n\n[HALAMAN 70]\nedisi revisi - Tahun 2025\n\n\nB. Pelaporan Hasil Belajar\n\nPelaporan hasil asesmen dituangkan dalam bentuk laporan hasil belajar. Laporan hasil belajar paling\nsedikit memberikan informasi mengenai pencapaian hasil belajar murid. Satuan pendidikan perlu\nmelaporkan hasil belajar dalam bentuk rapor.\nSebagaimana diuraikan pada prinsip asesmen di atas, laporan hasil belajar hendaknya bersifat sederhana\ndan informatif. Laporan hasil belajar memberikan informasi capaian kompetensi oleh murid dan strategi\ntindak lanjut bagi pendidik, satuan pendidikan,",
+          "score": 0.6744144558906555
+        },
+        {
+          "source": "User Manual_Rapor Pendidikan (Dinas).pdf",
+          "chunk_id": 0,
+          "text": "[HALAMAN 1]\nPanduan Penggunaan\nRapor Pendidikan\n\nUntuk Dinas Pendidikan\n\n\n\n\n\nVersi: 0.1.0\n\n[HALAMAN 2]\nRapor Pendidikan\n\n Rapor Pendidikan adalah laporan hasil evaluasi layanan pendidikan sebagai\n penyempurnaan dari Rapor Mutu yang disusun oleh instrumen dan proses evaluasi\n yang berfokus pada hasil belajar peserta didik. Bersumber pada data yang lebih\n objektif, menjadikan Rapor Pendidikan sebagai acuan evaluasi mutu pendidikan,\n perencanaan berbasis data, dan tindak lanjut peningkatan kualitas pendidikan baik\n untuk satuan pendidikan kabupaten/kota, provinsi atau pusat.\n\n Rapor Pendidikan adalah penyempurnaan Rapor Mutu, di mana indikatornya\n disusun berdasarkan indikator input, proses, dan output pendidikan. Satuan\n pendidikan tidak melakukan pengisian data langsung ke dalam instrumen Rapor\n Pendidikan, melainkan data diambil dari sistem yang sudah ada, termasuk dari\n Dapodik, SIMPKB, AN, BPS, dan sumber lain yang relevan.",
+          "score": 0.6650580167770386
+        }
+      ]
+    },
+    {
+      "question": "Apakah satuan pendidikan harus mengisi data langsung pada instrumen Rapor Pendidikan?",
+      "paraphrase": false,
+      "results": [
+        {
+          "source": "User Manual_Rapor Pendidikan (Dinas).pdf",
+          "chunk_id": 1,
+          "text": "nstrumen Rapor\n Pendidikan, melainkan data diambil dari sistem yang sudah ada, termasuk dari\n Dapodik, SIMPKB, AN, BPS, dan sumber lain yang relevan. Satuan pendidikan hanya\n dipersyaratkan memasukkan data di Dapodik dan mengikuti Asesmen Nasional.\n\n[HALAMAN 3]\nRapor Pendidikan dapat dijadikan sebagai:\n\n 1. Referensi utama sebagai dasar analisis, perencanaan, dan tindak lanjut\n peningkatan kualitas pendidikan\n 2. Sumber data yang objektif dan andal dengan penyajian laporan secara\n otomatis dan terintegrasi\n 3. Instrumen pengukuran untuk evaluasi sistem pendidikan secara keseluruhan\n baik untuk evaluasi internal maupun eksternal\n 4. Alat ukur yang berorientasi pada mutu dan pemerataan hasil belajar (output)\n 5. Satuan pendidikan tidak perlu menggunakan beragam aplikasi sehingga\n diharapkan dapat meringankan beban administrasi dengan penyajian data\n yang terpusat\n 6. Satu-satunya platform untuk melihat hasil Asesmen Nasional\n\n[HALAMAN 4]\nFungsi dan Manfaat\n\n\n\n Rapor Pendidikan\n I.",
+          "score": 0.7811049222946167
+        },
+        {
+          "source": "Panduan Pembelajaran Asesmen.pdf",
+          "chunk_id": 194,
+          "text": "nggunakan cara lain, namun tetap menjaga validitas dan akurasi\n penilaian, yang menggambarkan perkembangan proses belajar yang telah ditempuh murid.\n\n Pada satuan pendidikan yang menggunakan angka dan deskripsi pada pelaporan hasil belajarnya,\n hasil asesmen kualitatif tersebut perlu dikuantifikasi.\n\n\n\nPanduan Pembelajaran dan Asesmen Pendidikan Anak Usia Dini, Jenjang Pendidikan Dasar, dan Jenjang Pendidikan Menengah 61\n\n[HALAMAN 70]\nedisi revisi - Tahun 2025\n\n\nB. Pelaporan Hasil Belajar\n\nPelaporan hasil asesmen dituangkan dalam bentuk laporan hasil belajar. Laporan hasil belajar paling\nsedikit memberikan informasi mengenai pencapaian hasil belajar murid. Satuan pendidikan perlu\nmelaporkan hasil belajar dalam bentuk rapor.\nSebagaimana diuraikan pada prinsip asesmen di atas, laporan hasil belajar hendaknya bersifat sederhana\ndan informatif. Laporan hasil belajar memberikan informasi capaian kompetensi oleh murid dan strategi\ntindak lanjut bagi pendidik, satuan pendidikan,",
+          "score": 0.7000640630722046
+        },
+        {
+          "source": "Panduan Pembelajaran Asesmen.pdf",
+          "chunk_id": 217,
+          "text": "aksanakan secara bersamaan untuk semua mata pelajaran. Dengan\n demikian, jika ada mata pelajaran yang sudah mencapai ketuntasan capaian pembelajaran, maka\n satuan pendidikan dapat menyelenggarakan ujian.\n Murid yang mengikuti ujian yang diselenggarakan oleh satuan pendidikan harus telah berada\n pada tahun terakhir di masing-masing jenjang atau program paket kesetaraan dan memiliki\n laporan lengkap penilaian hasil belajar seluruh program pembelajaran yang telah ditempuh pada\n jenjang pendidikan tersebut.\n Bentuk ujian yang diselenggarakan oleh satuan pendidikan dapat berupa:\n i. portofolio;\n ii. penugasan;\n iii. tes tertulis; dan/atau\n iv. bentuk kegiatan lain yang ditetapkan Satuan Pendidikan sesuai dengan kompetensi yang\n diukur berdasarkan Standar Nasional Pendidikan.\n Satuan pendidikan disarankan untuk memadukan beragam bentuk ujian sehingga dapat menilai\n capaian belajar setiap murid secara lebih utuh\n\n3.",
+          "score": 0.6789552569389343
+        }
+      ]
+    },
+    {
+      "question": "Apa tiga kelompok indikator dalam Rapor Pendidikan?",
+      "paraphrase": false,
+      "results": [
+        {
+          "source": "User Manual_Rapor Pendidikan (Dinas).pdf",
+          "chunk_id": 1,
+          "text": "nstrumen Rapor\n Pendidikan, melainkan data diambil dari sistem yang sudah ada, termasuk dari\n Dapodik, SIMPKB, AN, BPS, dan sumber lain yang relevan. Satuan pendidikan hanya\n dipersyaratkan memasukkan data di Dapodik dan mengikuti Asesmen Nasional.\n\n[HALAMAN 3]\nRapor Pendidikan dapat dijadikan sebagai:\n\n 1. Referensi utama sebagai dasar analisis, perencanaan, dan tindak lanjut\n peningkatan kualitas pendidikan\n 2. Sumber data yang objektif dan andal dengan penyajian laporan secara\n otomatis dan terintegrasi\n 3. Instrumen pengukuran untuk evaluasi sistem pendidikan secara keseluruhan\n baik untuk evaluasi internal maupun eksternal\n 4. Alat ukur yang berorientasi pada mutu dan pemerataan hasil belajar (output)\n 5. Satuan pendidikan tidak perlu menggunakan beragam aplikasi sehingga\n diharapkan dapat meringankan beban administrasi dengan penyajian data\n yang terpusat\n 6. Satu-satunya platform untuk melihat hasil Asesmen Nasional\n\n[HALAMAN 4]\nFungsi dan Manfaat\n\n\n\n Rapor Pendidikan\n I.",
+          "score": 0.7438124418258667
+        },
+        {
+          "source": "Panduan Pembelajaran Asesmen.pdf",
+          "chunk_id": 138,
+          "text": "an pengalaman secara jelas; dan\n• menjelaskan hubungan kausalitas yang logis. disertai dengan argumen yang logis sehingga dapat\n meyakinkan pembaca.\n\nUntuk setiap kriteria terdapat 5 (lima) skala pencapaian (1-5).\nPendidik membandingkan hasil tulisan murid dengan rubrik untuk menentukan ketercapaian murid.\nPencapaian penulisan laporan dilihat dari 3 unsur yaitu pembuka, isi, dan penutup.\n\n\n\n\n\nPanduan Pembelajaran dan Asesmen Pendidikan Anak Usia Dini, Jenjang Pendidikan Dasar, dan Jenjang Pendidikan Menengah 43\n\n[HALAMAN 52]\nedisi revisi - Tahun 2025\n\n\n\n\n\n Tabel 3.7. Contoh Kriteria Ketuntasan Tujuan Pembelajaran Menggunakan Interval\n\n belum muncul muncul muncul muncul pada\n muncul pada salah pada pada pada tiga pembuka, Skala pada bagian satu unsur dua unsur unsur isi, dan\n pembuka, penutup;",
+          "score": 0.7081963419914246
+        },
+        {
+          "source": "Panduan Pembelajaran Asesmen.pdf",
+          "chunk_id": 194,
+          "text": "nggunakan cara lain, namun tetap menjaga validitas dan akurasi\n penilaian, yang menggambarkan perkembangan proses belajar yang telah ditempuh murid.\n\n Pada satuan pendidikan yang menggunakan angka dan deskripsi pada pelaporan hasil belajarnya,\n hasil asesmen kualitatif tersebut perlu dikuantifikasi.\n\n\n\nPanduan Pembelajaran dan Asesmen Pendidikan Anak Usia Dini, Jenjang Pendidikan Dasar, dan Jenjang Pendidikan Menengah 61\n\n[HALAMAN 70]\nedisi revisi - Tahun 2025\n\n\nB. Pelaporan Hasil Belajar\n\nPelaporan hasil asesmen dituangkan dalam bentuk laporan hasil belajar. Laporan hasil belajar paling\nsedikit memberikan informasi mengenai pencapaian hasil belajar murid. Satuan pendidikan perlu\nmelaporkan hasil belajar dalam bentuk rapor.\nSebagaimana diuraikan pada prinsip asesmen di atas, laporan hasil belajar hendaknya bersifat sederhana\ndan informatif. Laporan hasil belajar memberikan informasi capaian kompetensi oleh murid dan strategi\ntindak lanjut bagi pendidik, satuan pendidikan,",
+          "score": 0.6669563055038452
+        }
+      ]
+    },
+    {
+      "question": "Apa kegunaan Rapor Pendidikan bagi pemerintah daerah dan satuan pendidikan?",
+      "paraphrase": false,
+      "results": [
+        {
+          "source": "User Manual_Rapor Pendidikan (Dinas).pdf",
+          "chunk_id": 1,
+          "text": "nstrumen Rapor\n Pendidikan, melainkan data diambil dari sistem yang sudah ada, termasuk dari\n Dapodik, SIMPKB, AN, BPS, dan sumber lain yang relevan. Satuan pendidikan hanya\n dipersyaratkan memasukkan data di Dapodik dan mengikuti Asesmen Nasional.\n\n[HALAMAN 3]\nRapor Pendidikan dapat dijadikan sebagai:\n\n 1. Referensi utama sebagai dasar analisis, perencanaan, dan tindak lanjut\n peningkatan kualitas pendidikan\n 2. Sumber data yang objektif dan andal dengan penyajian laporan secara\n otomatis dan terintegrasi\n 3. Instrumen pengukuran untuk evaluasi sistem pendidikan secara keseluruhan\n baik untuk evaluasi internal maupun eksternal\n 4. Alat ukur yang berorientasi pada mutu dan pemerataan hasil belajar (output)\n 5. Satuan pendidikan tidak perlu menggunakan beragam aplikasi sehingga\n diharapkan dapat meringankan beban administrasi dengan penyajian data\n yang terpusat\n 6. Satu-satunya platform untuk melihat hasil Asesmen Nasional\n\n[HALAMAN 4]\nFungsi dan Manfaat\n\n\n\n Rapor Pendidikan\n I.",
+          "score": 0.7801433801651001
+        },
+        {
+          "source": "User Manual_Rapor Pendidikan (Dinas).pdf",
+          "chunk_id": 0,
+          "text": "[HALAMAN 1]\nPanduan Penggunaan\nRapor Pendidikan\n\nUntuk Dinas Pendidikan\n\n\n\n\n\nVersi: 0.1.0\n\n[HALAMAN 2]\nRapor Pendidikan\n\n Rapor Pendidikan adalah laporan hasil evaluasi layanan pendidikan sebagai\n penyempurnaan dari Rapor Mutu yang disusun oleh instrumen dan proses evaluasi\n yang berfokus pada hasil belajar peserta didik. Bersumber pada data yang lebih\n objektif, menjadikan Rapor Pendidikan sebagai acuan evaluasi mutu pendidikan,\n perencanaan berbasis data, dan tindak lanjut peningkatan kualitas pendidikan baik\n untuk satuan pendidikan kabupaten/kota, provinsi atau pusat.\n\n Rapor Pendidikan adalah penyempurnaan Rapor Mutu, di mana indikatornya\n disusun berdasarkan indikator input, proses, dan output pendidikan. Satuan\n pendidikan tidak melakukan pengisian data langsung ke dalam instrumen Rapor\n Pendidikan, melainkan data diambil dari sistem yang sudah ada, termasuk dari\n Dapodik, SIMPKB, AN, BPS, dan sumber lain yang relevan.",
+          "score": 0.7344056367874146
+        },
+        {
+          "source": "Panduan Pembelajaran Asesmen.pdf",
+          "chunk_id": 165,
+          "text": "elajaran dan Asesmen Pendidikan Anak Usia Dini, Jenjang Pendidikan Dasar, dan Jenjang Pendidikan Menengah 51\n\n[HALAMAN 60]\nedisi revisi - Tahun 2025\n\n 5 Pengolahan dan Pelaporan\n Hasil Asesmen\n\n\n\n Ringkasan Bab\n Pengolahan Hasil Asesmen\n Pelaporan Hasil belajar\n Mekanisme Kenaikan Kelas dan Kelulusan\n\n\n\n\n Penting untuk diperhatikan bahwa pendidik tidak menggabungkan\n hasil asesmen formatif dan sumatif karena asesmen formatif dan sumatif\n memiliki fungsi yang berbeda. Asesmen formatif bertujuan untuk\n memberikan umpan balik pada proses sehingga asesmen formatif bukan\n menjadi penentu atau pembagi untuk nilai akhir. Sementara itu, asesmen\n sumatif bertujuan untuk untuk menilai pencapaian hasil belajar murid.\n Dalam mengolah dan menentukan hasil akhir asesmen sumatif, pendidik\n perlu membagi asesmennya ke dalam beberapa kegiatan asesmen\n sumatif agar murid dapat menyelesaikan asesmen sumatifnya dalam\n kondisi yang optimal (tidak terburu-buru atau tidak terlalu padat). Untuk\n situasi ini,",
+          "score": 0.682278037071228
+        }
+      ]
+    },
+    {
+      "question": "Dengan kata lain, bagaimana Asesmen Nasional membantu sekolah meningkatkan pembelajaran?",
+      "paraphrase": true,
+      "results": [
+        {
+          "source": "Buku Panduan Capaian Hasil AN.pdf",
+          "chunk_id": 36,
+          "text": "ogram kerja sekolah serta tidak dikomunikasikan kepada warga\n sekolah.\n\n d.3.2 BERDAMPAK\n Pengelolaan Perencanaan pembelajaran, praktik pembelajaran, dan praktik asesmen di\n kurikulum satuan pendidikan sudah berorientasi pada peningkatan hasil belajar murid.\n sekolah\n BERORIENTASI\n Mengelola Perencanaan pembelajaran, praktik pembelajaran, dan praktik asesmen di\n pengembangan satuan pendidikan berorientasi pada peningkatan hasil belajar murid.\n kurikulum\n sekolah dengan DISORIENTASI\n berorientasi Perencanaan pembelajaran, praktik pembelajaran, dan praktik asesmen di\n pada satuan pendidikan belum berorientasi pada peningkatan hasil belajar murid.\n peningkatan\n hasil belajar\n murid.\n\n d.3.3 TERSTRUKTUR\n Dukungan untuk Sekolah sudah memiliki program, sistem insentif, dan sumber daya yang telah\n refleksi guru mendukung guru untuk melakukan refleksi dan perbaikan pembelajaran.\n Program, sistem TERSEDIA\n insentif, dan Sekolah sudah memiliki program, sistem insentif,",
+          "score": 0.7124741077423096
+        },
+        {
+          "source": "Panduan Pembelajaran Asesmen.pdf",
+          "chunk_id": 46,
+          "text": "enengah 13\n\n[HALAMAN 22]\nedisi revisi - Tahun 2025\n\n\n\n3. Edukatif\nAsesmen hasil belajar murid dilakukan sesuai dengan tujuan asesmen secara edukatif. Pendidik\nmelakukan asesmen yang hasilnya digunakan sebagai umpan balik bagi pendidik, murid, dan orang\ntua untuk meningkatkan proses pembelajaran dan hasil belajar yang membangun, mendorong\nperbaikan, dan memotivasi murid untuk terus belajar. Asesmen tidak hanya menghakimi hasil, tetapi\nmemperkuat proses belajar.\n\n Contoh Pelaksanaan Prinsip Asesmen Edukatif\n a. Pendidik merencanakan pembelajaran dengan merujuk pada tujuan yang\n hendak dicapai.\n b. Pendidik melibatkan murid dalam melakukan asesmen, melalui penilaian diri,\n penilaian antarteman, refleksi diri, dan pemberian umpan balik antarteman\n dengan memberikan rambu-rambu yang jelas.\n c. Pendidik menyusun laporan kemajuan belajar secara ringkas, mengutamakan\n informasi yang paling penting untuk dipahami oleh murid dan orang tua.\n d.",
+          "score": 0.685172975063324
+        },
+        {
+          "source": "Panduan Pembelajaran Asesmen.pdf",
+          "chunk_id": 213,
+          "text": "faktor pendorong keputusan tidak naik kelas, serta\nalternatif solusi yang lebih sesuai dengan perkembangan dan kesejahteraan (well-being) murid.\n\n\n\n\n\nPanduan Pembelajaran dan Asesmen Pendidikan Anak Usia Dini, Jenjang Pendidikan Dasar, dan Jenjang Pendidikan Menengah 67\n\n[HALAMAN 76]\nedisi revisi - Tahun 2025\n\n\n\n\n Contoh isu Pertimbangan yang bisa diambil sekolah\n\n Murid mempunyai tujuan pem- Murid dapat dipertimbangkan naik di kelas berikutnya\n belajaran yang belum tuntas dengan pendampingan tambahan untuk menyelesaikan\n (ada tujuan-tujuan pembelajaran tujuan pembelajaran yang belum tercapai/tuntas.\n yang hasilnya belum memenuhi\n pencapaian minimum).\n\n Murid mempunyai masalah absen/ • Dapat dipertimbangkan dengan mengetahui alasan\n ketidakhadiran yang banyak ketidakhadiran. Jika murid tidak hadir karena kondisi\n (banyaknya jumlah ketidakhadiran keluarga (murid yang membantu orang tua bekerja\n disepakati oleh satuan pendidikan) karena alasan ekonomi) atau masalah kesehatan\n murid,",
+          "score": 0.6740899085998535
+        }
+      ]
+    },
+    {
+      "question": "Sebutkan cara lain menjelaskan fungsi Rapor Pendidikan sebagai dasar perbaikan sekolah dan dinas pendidikan.",
+      "paraphrase": true,
+      "results": [
+        {
+          "source": "Panduan Pembelajaran Asesmen.pdf",
+          "chunk_id": 210,
+          "text": "musyawarah para pendidik, yang\n mempertimbangkan keseluruhan proses belajar murid serta pendampingan\n oleh pendidik dari awal tahun ajaran.\n\n\n\n\n 66\n\n[HALAMAN 75]\nPengolahan dan Pelaporan Hasil Asesmen\n\n\n\n\nAspek yang menjadi Pertimbangan Kenaikan Kelas\nDalam menentukan kenaikan kelas, satuan pendidikan perlu mempertimbangkan berbagai aspek\npenting yang mencerminkan pencapaian dan kesiapan murid untuk melanjutkan ke kelas berikutnya.\nBeberapa hal yang menjadi pertimbangan utama, antara lain sebagai berikut.\n1. Pencapaian Kompetensi Murid\n Penentuan kenaikan kelas dapat mempertimbangkan laporan kemajuan belajar yang\n mencerminkan pencapaian kompetensi murid (kesatuan pengetahuan, keterampilan, dan sikap)\n pada semua mata pelajaran, kokurikuler, ekstrakurikuler, serta prestasi lainnya.\n\n2. Kehadiran\n Tingkat kehadiran menjadi indikator kedisiplinan dan partisipasi murid dalam pembelajaran.\n Kehadiran yang konsisten menunjukkan komitmen dan tanggung jawab murid terhadap proses\n belajar.",
+          "score": 0.7855262160301208
+        },
+        {
+          "source": "Panduan Pembelajaran Asesmen.pdf",
+          "chunk_id": 47,
+          "text": ". Pendidik menyusun laporan kemajuan belajar secara ringkas, mengutamakan\n informasi yang paling penting untuk dipahami oleh murid dan orang tua.\n d. Pendidik menggunakan hasil asesmen sebagai bahan diskusi untuk\n menentukan hal-hal yang sudah berjalan baik dan area yang perlu diperbaiki.\n Satuan pendidikan memiliki strategi agar hasil asesmen digunakan sebagai\n refleksi oleh murid, pendidik, tenaga kependidikan, dan orang tua untuk\n meningkatkan mutu pembelajaran.\n e. Pendidik memberikan umpan balik kepada murid berupa kalimat dukungan\n untuk menstimulasi pola pikir bertumbuh secara berkala dan mendiskusikan\n tindak lanjutnya bersama-sama orang tua.\n f. Pendidik merancang asesmen yang dapat meningkatkan kompetensi murid\n dengan tingkat kesulitan yang sesuai dengan kemampuan murid dan umpan\n balik yang membangun.\n g. Pendidik melakukan asesmen sebagai bagian dari proses pembelajaran dan\n bukan hanya untuk kepentingan menguji.\n h.",
+          "score": 0.7706446647644043
+        },
+        {
+          "source": "User Manual_Rapor Pendidikan (Dinas).pdf",
+          "chunk_id": 0,
+          "text": "[HALAMAN 1]\nPanduan Penggunaan\nRapor Pendidikan\n\nUntuk Dinas Pendidikan\n\n\n\n\n\nVersi: 0.1.0\n\n[HALAMAN 2]\nRapor Pendidikan\n\n Rapor Pendidikan adalah laporan hasil evaluasi layanan pendidikan sebagai\n penyempurnaan dari Rapor Mutu yang disusun oleh instrumen dan proses evaluasi\n yang berfokus pada hasil belajar peserta didik. Bersumber pada data yang lebih\n objektif, menjadikan Rapor Pendidikan sebagai acuan evaluasi mutu pendidikan,\n perencanaan berbasis data, dan tindak lanjut peningkatan kualitas pendidikan baik\n untuk satuan pendidikan kabupaten/kota, provinsi atau pusat.\n\n Rapor Pendidikan adalah penyempurnaan Rapor Mutu, di mana indikatornya\n disusun berdasarkan indikator input, proses, dan output pendidikan. Satuan\n pendidikan tidak melakukan pengisian data langsung ke dalam instrumen Rapor\n Pendidikan, melainkan data diambil dari sistem yang sudah ada, termasuk dari\n Dapodik, SIMPKB, AN, BPS, dan sumber lain yang relevan.",
+          "score": 0.7621573805809021
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+[
+  {
+    "question": "Apa tujuan utama Rapor Pendidikan?",
+    "sources": [
+      "02_Rapor_Pendidikan_Dinas.pdf"
+    ],
+    "keywords": [
+      "evaluasi layanan pendidikan",
+      "hasil belajar",
+      "mutu pendidikan"
+    ]
+  },
+  {
+    "question": "Dari sistem atau sumber data apa Rapor Pendidikan mengambil datanya?",
+    "sources": [
+      "02_Rapor_Pendidikan_Dinas.pdf"
+    ],
+    "keywords": [
+      "dapodik",
+      "simpkb",
+      "asesmen nasional",
+      "bps"
+    ]
+  },
+  {
+    "question": "Apakah satuan pendidikan harus mengisi data langsung pada instrumen Rapor Pendidikan?",
+    "sources": [
+      "02_Rapor_Pendidikan_Dinas.pdf"
+    ],
+    "keywords": [
+      "tidak melakukan pengisian data langsung",
+      "dapodik"
+    ]
+  },
+  {
+    "question": "Apa tiga kelompok indikator dalam Rapor Pendidikan?",
+    "sources": [
+      "02_Rapor_Pendidikan_Dinas.pdf"
+    ],
+    "keywords": [
+      "input",
+      "proses",
+      "output"
+    ]
+  },
+  {
+    "question": "Apa kegunaan Rapor Pendidikan bagi pemerintah daerah dan satuan pendidikan?",
+    "sources": [
+      "02_Rapor_Pendidikan_Dinas.pdf"
+    ],
+    "keywords": [
+      "perencanaan berbasis data",
+      "tindak lanjut",
+      "peningkatan kualitas"
+    ]
+  },
+  {
+    "question": "Apa tiga instrumen utama dalam Asesmen Nasional?",
+    "sources": [
+      "03_Panduan_Capaian_AN.pdf"
+    ],
+    "keywords": [
+      "asesmen kompetensi minimum",
+      "survei karakter",
+      "survei lingkungan belajar"
+    ]
+  },
+  {
+    "question": "Aspek apa yang dinilai untuk melihat mutu satuan pendidikan?",
+    "sources": [
+      "03_Panduan_Capaian_AN.pdf"
+    ],
+    "keywords": [
+      "literasi",
+      "numerasi",
+      "karakter",
+      "proses belajar-mengajar",
+      "iklim satuan pendidikan"
+    ]
+  },
+  {
+    "question": "Mengapa Asesmen Nasional diselenggarakan?",
+    "sources": [
+      "03_Panduan_Capaian_AN.pdf"
+    ],
+    "keywords": [
+      "memperbaiki kualitas belajar-mengajar",
+      "hasil belajar murid"
+    ]
+  },
+  {
+    "question": "Informasi kesenjangan apa yang dapat dipantau melalui Asesmen Nasional?",
+    "sources": [
+      "03_Panduan_Capaian_AN.pdf"
+    ],
+    "keywords": [
+      "sosial ekonomi",
+      "negeri dan swasta",
+      "antardaerah"
+    ]
+  },
+  {
+    "question": "Apa tujuan utama satuan pendidikan menurut Asesmen Nasional?",
+    "sources": [
+      "03_Panduan_Capaian_AN.pdf"
+    ],
+    "keywords": [
+      "pengembangan kompetensi dan karakter murid"
+    ]
+  },
+  {
+    "question": "Siapa jenjang pendidikan yang dicakup dalam Panduan Pembelajaran dan Asesmen edisi revisi 2025?",
+    "sources": [
+      "01_Panduan_Pembelajaran_Asesmen.pdf"
+    ],
+    "keywords": [
+      "pendidikan anak usia dini",
+      "pendidikan dasar",
+      "pendidikan menengah"
+    ]
+  },
+  {
+    "question": "Apa nama dokumen panduan pembelajaran dan asesmen yang menjadi sumber?",
+    "sources": [
+      "01_Panduan_Pembelajaran_Asesmen.pdf"
+    ],
+    "keywords": [
+      "panduan pembelajaran dan asesmen",
+      "edisi revisi tahun 2025"
+    ]
+  },
+  {
+    "question": "Rapor Pendidikan merupakan penyempurnaan dari instrumen apa?",
+    "sources": [
+      "02_Rapor_Pendidikan_Dinas.pdf"
+    ],
+    "keywords": [
+      "rapor mutu"
+    ]
+  },
+  {
+    "question": "Dengan kata lain, bagaimana Asesmen Nasional membantu sekolah meningkatkan pembelajaran?",
+    "sources": [
+      "03_Panduan_Capaian_AN.pdf"
+    ],
+    "keywords": [
+      "memperbaiki kualitas belajar-mengajar",
+      "sumber daya",
+      "mutu pembelajaran"
+    ],
+    "paraphrase": true
+  },
+  {
+    "question": "Sebutkan cara lain menjelaskan fungsi Rapor Pendidikan sebagai dasar perbaikan sekolah dan dinas pendidikan.",
+    "sources": [
+      "02_Rapor_Pendidikan_Dinas.pdf"
+    ],
+    "keywords": [
+      "perencanaan berbasis data",
+      "tindak lanjut",
+      "peningkatan kualitas"
+    ],
+    "paraphrase": true
+  }
+]

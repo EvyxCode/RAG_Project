@@ -1,0 +1,26 @@
+{
+  "500": {
+    "total_chunk": 948,
+    "per_file": {
+      "Buku Panduan Capaian Hasil AN.pdf": 149,
+      "Panduan Pembelajaran Asesmen.pdf": 781,
+      "User Manual_Rapor Pendidikan (Dinas).pdf": 18
+    }
+  },
+  "1000": {
+    "total_chunk": 464,
+    "per_file": {
+      "Buku Panduan Capaian Hasil AN.pdf": 75,
+      "Panduan Pembelajaran Asesmen.pdf": 380,
+      "User Manual_Rapor Pendidikan (Dinas).pdf": 9
+    }
+  },
+  "1500": {
+    "total_chunk": 303,
+    "per_file": {
+      "Buku Panduan Capaian Hasil AN.pdf": 50,
+      "Panduan Pembelajaran Asesmen.pdf": 247,
+      "User Manual_Rapor Pendidikan (Dinas).pdf": 6
+    }
+  }
+}

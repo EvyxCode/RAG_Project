@@ -1,0 +1,1404 @@
+{
+  "500": {
+    "1": {
+      "k": 1,
+      "hits": 0,
+      "total": 15,
+      "hit_at_k": 0.0,
+      "details": [
+        {
+          "question": "Apa tujuan utama Rapor Pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf"
+          ],
+          "top_scores": [
+            0.754
+          ]
+        },
+        {
+          "question": "Dari sistem atau sumber data apa Rapor Pendidikan mengambil datanya?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf"
+          ],
+          "top_scores": [
+            0.828
+          ]
+        },
+        {
+          "question": "Apakah satuan pendidikan harus mengisi data langsung pada instrumen Rapor Pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf"
+          ],
+          "top_scores": [
+            0.7689
+          ]
+        },
+        {
+          "question": "Apa tiga kelompok indikator dalam Rapor Pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf"
+          ],
+          "top_scores": [
+            0.735
+          ]
+        },
+        {
+          "question": "Apa kegunaan Rapor Pendidikan bagi pemerintah daerah dan satuan pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf"
+          ],
+          "top_scores": [
+            0.7845
+          ]
+        },
+        {
+          "question": "Apa tiga instrumen utama dalam Asesmen Nasional?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.3645
+          ]
+        },
+        {
+          "question": "Aspek apa yang dinilai untuk melihat mutu satuan pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7787
+          ]
+        },
+        {
+          "question": "Mengapa Asesmen Nasional diselenggarakan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Buku Panduan Capaian Hasil AN.pdf"
+          ],
+          "top_scores": [
+            0.4039
+          ]
+        },
+        {
+          "question": "Informasi kesenjangan apa yang dapat dipantau melalui Asesmen Nasional?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf"
+          ],
+          "top_scores": [
+            0.5477
+          ]
+        },
+        {
+          "question": "Apa tujuan utama satuan pendidikan menurut Asesmen Nasional?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.687
+          ]
+        },
+        {
+          "question": "Siapa jenjang pendidikan yang dicakup dalam Panduan Pembelajaran dan Asesmen edisi revisi 2025?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.8158
+          ]
+        },
+        {
+          "question": "Apa nama dokumen panduan pembelajaran dan asesmen yang menjadi sumber?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7234
+          ]
+        },
+        {
+          "question": "Rapor Pendidikan merupakan penyempurnaan dari instrumen apa?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7179
+          ]
+        },
+        {
+          "question": "Dengan kata lain, bagaimana Asesmen Nasional membantu sekolah meningkatkan pembelajaran?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7057
+          ]
+        },
+        {
+          "question": "Sebutkan cara lain menjelaskan fungsi Rapor Pendidikan sebagai dasar perbaikan sekolah dan dinas pendidikan.",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf"
+          ],
+          "top_scores": [
+            0.8196
+          ]
+        }
+      ]
+    },
+    "3": {
+      "k": 3,
+      "hits": 0,
+      "total": 15,
+      "hit_at_k": 0.0,
+      "details": [
+        {
+          "question": "Apa tujuan utama Rapor Pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf"
+          ],
+          "top_scores": [
+            0.754,
+            0.736,
+            0.7154
+          ]
+        },
+        {
+          "question": "Dari sistem atau sumber data apa Rapor Pendidikan mengambil datanya?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.828,
+            0.7164,
+            0.6778
+          ]
+        },
+        {
+          "question": "Apakah satuan pendidikan harus mengisi data langsung pada instrumen Rapor Pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf"
+          ],
+          "top_scores": [
+            0.7689,
+            0.7096,
+            0.6927
+          ]
+        },
+        {
+          "question": "Apa tiga kelompok indikator dalam Rapor Pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf"
+          ],
+          "top_scores": [
+            0.735,
+            0.7162,
+            0.6956
+          ]
+        },
+        {
+          "question": "Apa kegunaan Rapor Pendidikan bagi pemerintah daerah dan satuan pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Buku Panduan Capaian Hasil AN.pdf"
+          ],
+          "top_scores": [
+            0.7845,
+            0.7492,
+            0.7173
+          ]
+        },
+        {
+          "question": "Apa tiga instrumen utama dalam Asesmen Nasional?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.3645,
+            0.3606,
+            0.3588
+          ]
+        },
+        {
+          "question": "Aspek apa yang dinilai untuk melihat mutu satuan pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7787,
+            0.7636,
+            0.7605
+          ]
+        },
+        {
+          "question": "Mengapa Asesmen Nasional diselenggarakan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Buku Panduan Capaian Hasil AN.pdf",
+            "Buku Panduan Capaian Hasil AN.pdf",
+            "Buku Panduan Capaian Hasil AN.pdf"
+          ],
+          "top_scores": [
+            0.4039,
+            0.4014,
+            0.3875
+          ]
+        },
+        {
+          "question": "Informasi kesenjangan apa yang dapat dipantau melalui Asesmen Nasional?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Buku Panduan Capaian Hasil AN.pdf",
+            "Buku Panduan Capaian Hasil AN.pdf"
+          ],
+          "top_scores": [
+            0.5477,
+            0.5074,
+            0.4695
+          ]
+        },
+        {
+          "question": "Apa tujuan utama satuan pendidikan menurut Asesmen Nasional?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.687,
+            0.6838,
+            0.6668
+          ]
+        },
+        {
+          "question": "Siapa jenjang pendidikan yang dicakup dalam Panduan Pembelajaran dan Asesmen edisi revisi 2025?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.8158,
+            0.7805,
+            0.753
+          ]
+        },
+        {
+          "question": "Apa nama dokumen panduan pembelajaran dan asesmen yang menjadi sumber?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7234,
+            0.694,
+            0.6637
+          ]
+        },
+        {
+          "question": "Rapor Pendidikan merupakan penyempurnaan dari instrumen apa?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7179,
+            0.6886,
+            0.6863
+          ]
+        },
+        {
+          "question": "Dengan kata lain, bagaimana Asesmen Nasional membantu sekolah meningkatkan pembelajaran?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Buku Panduan Capaian Hasil AN.pdf",
+            "Buku Panduan Capaian Hasil AN.pdf"
+          ],
+          "top_scores": [
+            0.7057,
+            0.7019,
+            0.6969
+          ]
+        },
+        {
+          "question": "Sebutkan cara lain menjelaskan fungsi Rapor Pendidikan sebagai dasar perbaikan sekolah dan dinas pendidikan.",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf"
+          ],
+          "top_scores": [
+            0.8196,
+            0.764,
+            0.7519
+          ]
+        }
+      ]
+    },
+    "5": {
+      "k": 5,
+      "hits": 0,
+      "total": 15,
+      "hit_at_k": 0.0,
+      "details": [
+        {
+          "question": "Apa tujuan utama Rapor Pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.754,
+            0.736,
+            0.7154,
+            0.7123,
+            0.7121
+          ]
+        },
+        {
+          "question": "Dari sistem atau sumber data apa Rapor Pendidikan mengambil datanya?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.828,
+            0.7164,
+            0.6778,
+            0.6597,
+            0.654
+          ]
+        },
+        {
+          "question": "Apakah satuan pendidikan harus mengisi data langsung pada instrumen Rapor Pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7689,
+            0.7096,
+            0.6927,
+            0.6873,
+            0.6637
+          ]
+        },
+        {
+          "question": "Apa tiga kelompok indikator dalam Rapor Pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.735,
+            0.7162,
+            0.6956,
+            0.691,
+            0.6861
+          ]
+        },
+        {
+          "question": "Apa kegunaan Rapor Pendidikan bagi pemerintah daerah dan satuan pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Buku Panduan Capaian Hasil AN.pdf",
+            "Buku Panduan Capaian Hasil AN.pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf"
+          ],
+          "top_scores": [
+            0.7845,
+            0.7492,
+            0.7173,
+            0.701,
+            0.6834
+          ]
+        },
+        {
+          "question": "Apa tiga instrumen utama dalam Asesmen Nasional?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.3645,
+            0.3606,
+            0.3588,
+            0.3551,
+            0.3512
+          ]
+        },
+        {
+          "question": "Aspek apa yang dinilai untuk melihat mutu satuan pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Buku Panduan Capaian Hasil AN.pdf"
+          ],
+          "top_scores": [
+            0.7787,
+            0.7636,
+            0.7605,
+            0.7546,
+            0.754
+          ]
+        },
+        {
+          "question": "Mengapa Asesmen Nasional diselenggarakan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Buku Panduan Capaian Hasil AN.pdf",
+            "Buku Panduan Capaian Hasil AN.pdf",
+            "Buku Panduan Capaian Hasil AN.pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Buku Panduan Capaian Hasil AN.pdf"
+          ],
+          "top_scores": [
+            0.4039,
+            0.4014,
+            0.3875,
+            0.3417,
+            0.3404
+          ]
+        },
+        {
+          "question": "Informasi kesenjangan apa yang dapat dipantau melalui Asesmen Nasional?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Buku Panduan Capaian Hasil AN.pdf",
+            "Buku Panduan Capaian Hasil AN.pdf",
+            "Buku Panduan Capaian Hasil AN.pdf",
+            "Buku Panduan Capaian Hasil AN.pdf"
+          ],
+          "top_scores": [
+            0.5477,
+            0.5074,
+            0.4695,
+            0.4688,
+            0.4673
+          ]
+        },
+        {
+          "question": "Apa tujuan utama satuan pendidikan menurut Asesmen Nasional?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Buku Panduan Capaian Hasil AN.pdf"
+          ],
+          "top_scores": [
+            0.687,
+            0.6838,
+            0.6668,
+            0.6293,
+            0.6245
+          ]
+        },
+        {
+          "question": "Siapa jenjang pendidikan yang dicakup dalam Panduan Pembelajaran dan Asesmen edisi revisi 2025?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.8158,
+            0.7805,
+            0.753,
+            0.7468,
+            0.7453
+          ]
+        },
+        {
+          "question": "Apa nama dokumen panduan pembelajaran dan asesmen yang menjadi sumber?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7234,
+            0.694,
+            0.6637,
+            0.655,
+            0.6392
+          ]
+        },
+        {
+          "question": "Rapor Pendidikan merupakan penyempurnaan dari instrumen apa?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7179,
+            0.6886,
+            0.6863,
+            0.629,
+            0.6289
+          ]
+        },
+        {
+          "question": "Dengan kata lain, bagaimana Asesmen Nasional membantu sekolah meningkatkan pembelajaran?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Buku Panduan Capaian Hasil AN.pdf",
+            "Buku Panduan Capaian Hasil AN.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7057,
+            0.7019,
+            0.6969,
+            0.6915,
+            0.6883
+          ]
+        },
+        {
+          "question": "Sebutkan cara lain menjelaskan fungsi Rapor Pendidikan sebagai dasar perbaikan sekolah dan dinas pendidikan.",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf"
+          ],
+          "top_scores": [
+            0.8196,
+            0.764,
+            0.7519,
+            0.7345,
+            0.7303
+          ]
+        }
+      ]
+    }
+  },
+  "1000": {
+    "1": {
+      "k": 1,
+      "hits": 0,
+      "total": 15,
+      "hit_at_k": 0.0,
+      "details": [
+        {
+          "question": "Apa tujuan utama Rapor Pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf"
+          ],
+          "top_scores": [
+            0.7342
+          ]
+        },
+        {
+          "question": "Dari sistem atau sumber data apa Rapor Pendidikan mengambil datanya?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf"
+          ],
+          "top_scores": [
+            0.8196
+          ]
+        },
+        {
+          "question": "Apakah satuan pendidikan harus mengisi data langsung pada instrumen Rapor Pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf"
+          ],
+          "top_scores": [
+            0.7811
+          ]
+        },
+        {
+          "question": "Apa tiga kelompok indikator dalam Rapor Pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf"
+          ],
+          "top_scores": [
+            0.7438
+          ]
+        },
+        {
+          "question": "Apa kegunaan Rapor Pendidikan bagi pemerintah daerah dan satuan pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf"
+          ],
+          "top_scores": [
+            0.7801
+          ]
+        },
+        {
+          "question": "Apa tiga instrumen utama dalam Asesmen Nasional?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf"
+          ],
+          "top_scores": [
+            0.3468
+          ]
+        },
+        {
+          "question": "Aspek apa yang dinilai untuk melihat mutu satuan pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7777
+          ]
+        },
+        {
+          "question": "Mengapa Asesmen Nasional diselenggarakan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.3405
+          ]
+        },
+        {
+          "question": "Informasi kesenjangan apa yang dapat dipantau melalui Asesmen Nasional?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf"
+          ],
+          "top_scores": [
+            0.5507
+          ]
+        },
+        {
+          "question": "Apa tujuan utama satuan pendidikan menurut Asesmen Nasional?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.6261
+          ]
+        },
+        {
+          "question": "Siapa jenjang pendidikan yang dicakup dalam Panduan Pembelajaran dan Asesmen edisi revisi 2025?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.8293
+          ]
+        },
+        {
+          "question": "Apa nama dokumen panduan pembelajaran dan asesmen yang menjadi sumber?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7178
+          ]
+        },
+        {
+          "question": "Rapor Pendidikan merupakan penyempurnaan dari instrumen apa?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.6317
+          ]
+        },
+        {
+          "question": "Dengan kata lain, bagaimana Asesmen Nasional membantu sekolah meningkatkan pembelajaran?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Buku Panduan Capaian Hasil AN.pdf"
+          ],
+          "top_scores": [
+            0.7125
+          ]
+        },
+        {
+          "question": "Sebutkan cara lain menjelaskan fungsi Rapor Pendidikan sebagai dasar perbaikan sekolah dan dinas pendidikan.",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7855
+          ]
+        }
+      ]
+    },
+    "3": {
+      "k": 3,
+      "hits": 0,
+      "total": 15,
+      "hit_at_k": 0.0,
+      "details": [
+        {
+          "question": "Apa tujuan utama Rapor Pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7342,
+            0.728,
+            0.6881
+          ]
+        },
+        {
+          "question": "Dari sistem atau sumber data apa Rapor Pendidikan mengambil datanya?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf"
+          ],
+          "top_scores": [
+            0.8196,
+            0.6744,
+            0.6651
+          ]
+        },
+        {
+          "question": "Apakah satuan pendidikan harus mengisi data langsung pada instrumen Rapor Pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7811,
+            0.7001,
+            0.679
+          ]
+        },
+        {
+          "question": "Apa tiga kelompok indikator dalam Rapor Pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7438,
+            0.7082,
+            0.667
+          ]
+        },
+        {
+          "question": "Apa kegunaan Rapor Pendidikan bagi pemerintah daerah dan satuan pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7801,
+            0.7344,
+            0.6823
+          ]
+        },
+        {
+          "question": "Apa tiga instrumen utama dalam Asesmen Nasional?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.3468,
+            0.3421,
+            0.3267
+          ]
+        },
+        {
+          "question": "Aspek apa yang dinilai untuk melihat mutu satuan pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7777,
+            0.7687,
+            0.7662
+          ]
+        },
+        {
+          "question": "Mengapa Asesmen Nasional diselenggarakan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Buku Panduan Capaian Hasil AN.pdf"
+          ],
+          "top_scores": [
+            0.3405,
+            0.3365,
+            0.3273
+          ]
+        },
+        {
+          "question": "Informasi kesenjangan apa yang dapat dipantau melalui Asesmen Nasional?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Buku Panduan Capaian Hasil AN.pdf",
+            "Buku Panduan Capaian Hasil AN.pdf"
+          ],
+          "top_scores": [
+            0.5507,
+            0.4991,
+            0.4874
+          ]
+        },
+        {
+          "question": "Apa tujuan utama satuan pendidikan menurut Asesmen Nasional?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.6261,
+            0.6241,
+            0.6236
+          ]
+        },
+        {
+          "question": "Siapa jenjang pendidikan yang dicakup dalam Panduan Pembelajaran dan Asesmen edisi revisi 2025?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.8293,
+            0.7721,
+            0.7511
+          ]
+        },
+        {
+          "question": "Apa nama dokumen panduan pembelajaran dan asesmen yang menjadi sumber?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7178,
+            0.6918,
+            0.6776
+          ]
+        },
+        {
+          "question": "Rapor Pendidikan merupakan penyempurnaan dari instrumen apa?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.6317,
+            0.5907,
+            0.5682
+          ]
+        },
+        {
+          "question": "Dengan kata lain, bagaimana Asesmen Nasional membantu sekolah meningkatkan pembelajaran?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Buku Panduan Capaian Hasil AN.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7125,
+            0.6852,
+            0.6741
+          ]
+        },
+        {
+          "question": "Sebutkan cara lain menjelaskan fungsi Rapor Pendidikan sebagai dasar perbaikan sekolah dan dinas pendidikan.",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf"
+          ],
+          "top_scores": [
+            0.7855,
+            0.7706,
+            0.7622
+          ]
+        }
+      ]
+    },
+    "5": {
+      "k": 5,
+      "hits": 0,
+      "total": 15,
+      "hit_at_k": 0.0,
+      "details": [
+        {
+          "question": "Apa tujuan utama Rapor Pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7342,
+            0.728,
+            0.6881,
+            0.6734,
+            0.6704
+          ]
+        },
+        {
+          "question": "Dari sistem atau sumber data apa Rapor Pendidikan mengambil datanya?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.8196,
+            0.6744,
+            0.6651,
+            0.6507,
+            0.6112
+          ]
+        },
+        {
+          "question": "Apakah satuan pendidikan harus mengisi data langsung pada instrumen Rapor Pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7811,
+            0.7001,
+            0.679,
+            0.6458,
+            0.6453
+          ]
+        },
+        {
+          "question": "Apa tiga kelompok indikator dalam Rapor Pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7438,
+            0.7082,
+            0.667,
+            0.6659,
+            0.6616
+          ]
+        },
+        {
+          "question": "Apa kegunaan Rapor Pendidikan bagi pemerintah daerah dan satuan pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7801,
+            0.7344,
+            0.6823,
+            0.6673,
+            0.6522
+          ]
+        },
+        {
+          "question": "Apa tiga instrumen utama dalam Asesmen Nasional?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.3468,
+            0.3421,
+            0.3267,
+            0.3162,
+            0.3138
+          ]
+        },
+        {
+          "question": "Aspek apa yang dinilai untuk melihat mutu satuan pendidikan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Buku Panduan Capaian Hasil AN.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7777,
+            0.7687,
+            0.7662,
+            0.7444,
+            0.7418
+          ]
+        },
+        {
+          "question": "Mengapa Asesmen Nasional diselenggarakan?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Buku Panduan Capaian Hasil AN.pdf",
+            "Buku Panduan Capaian Hasil AN.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.3405,
+            0.3365,
+            0.3273,
+            0.3254,
+            0.3217
+          ]
+        },
+        {
+          "question": "Informasi kesenjangan apa yang dapat dipantau melalui Asesmen Nasional?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Buku Panduan Capaian Hasil AN.pdf",
+            "Buku Panduan Capaian Hasil AN.pdf",
+            "Buku Panduan Capaian Hasil AN.pdf",
+            "Buku Panduan Capaian Hasil AN.pdf"
+          ],
+          "top_scores": [
+            0.5507,
+            0.4991,
+            0.4874,
+            0.4535,
+            0.4518
+          ]
+        },
+        {
+          "question": "Apa tujuan utama satuan pendidikan menurut Asesmen Nasional?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.6261,
+            0.6241,
+            0.6236,
+            0.6131,
+            0.6111
+          ]
+        },
+        {
+          "question": "Siapa jenjang pendidikan yang dicakup dalam Panduan Pembelajaran dan Asesmen edisi revisi 2025?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.8293,
+            0.7721,
+            0.7511,
+            0.746,
+            0.7455
+          ]
+        },
+        {
+          "question": "Apa nama dokumen panduan pembelajaran dan asesmen yang menjadi sumber?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7178,
+            0.6918,
+            0.6776,
+            0.6643,
+            0.6246
+          ]
+        },
+        {
+          "question": "Rapor Pendidikan merupakan penyempurnaan dari instrumen apa?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf"
+          ],
+          "top_scores": [
+            0.6317,
+            0.5907,
+            0.5682,
+            0.5659,
+            0.5647
+          ]
+        },
+        {
+          "question": "Dengan kata lain, bagaimana Asesmen Nasional membantu sekolah meningkatkan pembelajaran?",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Buku Panduan Capaian Hasil AN.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7125,
+            0.6852,
+            0.6741,
+            0.6707,
+            0.6643
+          ]
+        },
+        {
+          "question": "Sebutkan cara lain menjelaskan fungsi Rapor Pendidikan sebagai dasar perbaikan sekolah dan dinas pendidikan.",
+          "hit": false,
+          "matched_chunk": null,
+          "top_sources": [
+            "Panduan Pembelajaran Asesmen.pdf",
+            "Panduan Pembelajaran Asesmen.pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "User Manual_Rapor Pendidikan (Dinas).pdf",
+            "Panduan Pembelajaran Asesmen.pdf"
+          ],
+          "top_scores": [
+            0.7855,
+            0.7706,
+            0.7622,
+            0.7426,
+            0.7333
+          ]
+        }
+      ]
+    }
+  }
+}
